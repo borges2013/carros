@@ -1,0 +1,15 @@
+#home{
+    text-decoration:none ;
+}
+
+#titulo{
+    color: rgb(215, 222, 228);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.conteiner{
+    border: 1px solid;
+
+border-radius: 15px; background-color: beige;
+
+}
